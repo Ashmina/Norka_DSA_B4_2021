@@ -1,0 +1,5 @@
+This folder contains codes and dataset used by Team 7 in a competition conducted by ICT Academy of Kerala for NORKA_DS_B4_2021.  
+We were given HR Analytics as the domain.  
+The task was to select an appropriate dataset from the given domain and to perform supervised learning(classification or regression).  
+We selected a dataset (14999 X 62 size) from Kaggle.  
+Duration of the competition was 72 hours.
