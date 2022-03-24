@@ -1,0 +1,7 @@
+A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. 
+Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems.
+Centers for Medicare and Medicaid Services(CMS) established the Hospital Readmission Reduction Program(HRRP) which aims to improve quality of care for patients and reduce health care spending by applying payment penalties to hospitals that have more than expected readmission rates for certain conditions.
+The annual cost of readmissions to the US healthcare  system is approximately $17.4 billion per year.
+In 2011, American hospitals spent over $41 billion on diabetic patients who got readmitted within 30 days of discharge.
+Being able to determine factors that lead to higher readmission in such patients, and correspondingly being able to predict which patients will get readmitted can help hospitals save millions of dollars while improving quality of care.
+This project will present the analysis of a large clinical dataset that was undertaken to examine the historical patterns of diabetes care in patients with diabetes admitted to a US hospital and construction & deployment of an optimal ML model that identifies the 30-day readmission risk in patients, eventually reducing the preventable rehospitalizations.
